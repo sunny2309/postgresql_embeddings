@@ -1,0 +1,82 @@
+id,name,description,category
+1,Smart AI Speaker,"A voice-controlled smart speaker that uses AI to answer questions, play music, and control smart home devices. Supports multiple languages and integrates with popular virtual assistants.",Electronics
+2,AI-Powered Notebook,"A digital notebook that converts handwriting into searchable text and provides AI suggestions for organization and summarization.",Office Supplies
+3,Smart Home Security Camera,"A security camera with AI motion detection and facial recognition. Sends instant alerts to your phone and stores recordings securely in the cloud.",Home Security
+4,Personal AI Assistant App,"An app that helps manage tasks, schedules, and reminders using natural language understanding. Offers suggestions based on your daily habits.",Software
+5,AI Drone with Obstacle Avoidance,"A compact drone equipped with AI navigation and object detection to avoid obstacles and capture smooth aerial footage automatically.",Gadgets
+6,AI Fitness Tracker,"A wearable fitness tracker that uses AI to analyze activity patterns and suggest personalized workouts and health recommendations.",Wearables
+7,Smart Thermostat,"A thermostat that learns your temperature preferences over time and optimizes heating and cooling for energy efficiency.",Home Automation
+8,AI Email Organizer,"An AI tool that categorizes emails, highlights important messages, and drafts replies based on your style and history.",Software
+9,Voice-Controlled Smart Lamp,"A lamp that adjusts brightness and color temperature based on voice commands or AI-driven ambient analysis.",Home Automation
+10,AI Translation Earbuds,"Wireless earbuds that provide real-time language translation using AI, ideal for travel and international meetings.",Gadgets
+11,Smart AI Coffee Maker,"A coffee maker that learns your preferred brew settings and can start brewing remotely through a mobile app.",Kitchen
+12,AI-Powered Photo Editor,"Software that automatically enhances photos, removes backgrounds, and applies filters intelligently based on image content.",Software
+13,Smart Refrigerator,"A fridge that monitors inventory, suggests recipes based on available ingredients, and sends alerts when items are low.",Home Appliances
+14,AI Learning Tablet for Kids,"A tablet that adapts educational content to each child’s learning pace using AI-driven recommendations and quizzes.",Electronics
+15,AI Noise-Cancelling Headphones,"Headphones with AI that adapt noise cancellation based on environment and detect voice for virtual assistants.",Wearables
+16,Smart Robot Vacuum,"A vacuum cleaner that maps rooms and cleans efficiently using AI navigation. Can be controlled via app or voice commands.",Home Automation
+17,AI Personal Finance App,"An app that tracks spending, categorizes transactions, and gives AI-driven saving suggestions and budget forecasts.",Software
+18,Smart Door Lock,"A door lock that uses AI facial recognition and mobile authentication to secure your home and track access history.",Home Security
+19,AI Language Learning App,"An app that customizes lessons based on user progress, offers conversation practice, and provides AI feedback on pronunciation.",Software
+20,AI-Powered Smart Mirror,"A mirror that displays personalized information like weather, calendar, and health stats, while using AI to track fitness progress.",Home Automation
+21,AI-Powered Content Generator,"A software tool that helps marketers create blog posts, social media content, and emails with AI-assisted suggestions.",Software
+22,Smart Plant Monitor,"A sensor device that monitors soil moisture, sunlight, and temperature, providing AI-driven care recommendations for plants.",Home & Garden
+23,AI Recipe Assistant,"An app that generates recipes based on ingredients you have, dietary restrictions, and cuisine preferences using AI.",Software
+24,AI Health Tracker Band,"A wearable that monitors heart rate, sleep quality, and activity patterns, offering AI-based health insights.",Wearables
+25,Smart AI Projector,"A portable projector that adjusts image quality automatically and offers AI-assisted content recommendations for presentations and media.",Electronics
+26,AI Customer Support Chatbot,"A chatbot platform that uses AI to answer customer queries, route requests, and learn from interactions for improved responses.",Software
+27,AI Video Summarizer,"A tool that creates concise video summaries automatically, highlighting key moments using AI algorithms.",Software
+28,Smart AI Garage Door Opener,"A garage door opener that learns your schedule, can be controlled remotely, and uses AI to detect obstructions for safety.",Home Automation
+29,AI-Powered Resume Builder,"An application that helps craft professional resumes and cover letters with AI suggestions tailored to the job description.",Software
+30,AI Music Composition App,"An app that generates original music tracks based on mood, genre, and style preferences using AI.",Software
+31,Smart Water Bottle,"A water bottle that tracks hydration, reminds you to drink, and gives AI-based hydration recommendations.",Health & Fitness
+32,AI Writing Assistant,"A tool that helps draft emails, articles, and essays with AI-powered grammar, style, and tone suggestions.",Software
+33,AI-Powered Presentation Creator,"Software that designs slides automatically based on content input, suggesting visuals and layouts using AI.",Software
+34,AI Sleep Coach,"A wearable and app combination that monitors sleep patterns and provides AI-driven recommendations for better rest.",Health & Fitness
+35,Smart AI Light Strip,"LED strips that adapt colors based on music, weather, or AI-generated ambiance recommendations.",Home Automation
+36,AI-Powered Market Research Tool,"A software platform that summarizes industry trends, analyzes competitors, and generates insights with AI.",Software
+37,AI Shopping Assistant App,"An app that recommends products based on preferences, past behavior, and AI-analyzed trends.",Software
+38,Smart AI Thermos,"A thermos that tracks beverage temperature, suggests drinking times, and logs intake using AI.",Kitchen
+39,AI-Powered Grammar Checker,"A tool that analyzes text for grammar, clarity, and style, providing AI suggestions for professional writing.",Software
+40,Smart AI Pet Feeder,"A feeder that schedules meals, monitors pet activity, and uses AI to optimize feeding times and portion sizes.",Home & Garden
+41,AI-Powered Code Review Tool,"Software that analyzes code for bugs, inefficiencies, and best practices using AI recommendations.",Software
+42,Smart AI Bike Helmet,"A helmet with AI-powered safety alerts, crash detection, and navigation assistance.",Wearables
+43,AI-Powered Event Planner,"An app that suggests venues, schedules, and reminders for events using AI-driven insights.",Software
+44,AI-Powered Voice Cloning,"Software that generates realistic voice recordings from text inputs using AI models.",Software
+45,Smart AI Window Blinds,"Blinds that adjust lighting based on AI-analyzed sunlight patterns and user preferences.",Home Automation
+46,AI Video Editing Assistant,"A video editor that automatically cuts, enhances, and applies transitions using AI.",Software
+47,Smart AI Thermostat Sensor,"A device that learns room occupancy patterns and optimizes climate control with AI.",Home Automation
+48,AI-Powered Interview Coach,"An app that provides feedback on responses, tone, and body language during mock interviews using AI.",Software
+49,Smart AI Coffee Grinder,"A grinder that adjusts grind size based on brewing method and uses AI to suggest optimal settings.",Kitchen
+50,AI-Powered Content Moderation Tool,"Software that automatically detects harmful or inappropriate content using AI algorithms.",Software
+51,Smart AI Refrigerator Sensor,"A sensor that monitors inventory, expiration dates, and suggests recipes using AI analysis.",Home Appliances
+52,AI-Powered Task Manager,"An app that prioritizes tasks and deadlines using AI, adapting to user habits for productivity optimization.",Software
+53,Smart AI Garage Monitor,"A monitoring system that alerts on unauthorized access and tracks vehicle movements using AI.",Home Security
+54,AI Language Tutor App,"An app that teaches foreign languages through interactive AI lessons, quizzes, and speech feedback.",Software
+55,AI-Powered Stock Analyzer,"A tool that evaluates market trends, predicts stock performance, and provides insights using AI.",Software
+56,Smart AI Fan,"A fan that adjusts speed and direction automatically based on room conditions using AI.",Home Automation
+57,AI-Powered Presentation Coach,"An application that analyzes speech and presentation style, giving AI-driven feedback for improvement.",Software
+58,Smart AI Trash Can,"A bin that automatically sorts recyclables and trash using AI vision and sensors.",Home Automation
+59,AI-Powered Email Summarizer,"Software that condenses long emails into brief summaries using AI text analysis.",Software
+60,Smart AI Doorbell,"A doorbell that recognizes visitors, detects packages, and alerts homeowners with AI notifications.",Home Security
+61,AI-Powered Travel Planner,"An app that suggests itineraries, hotels, and activities based on AI analysis of user preferences.",Software
+62,Smart AI Curtains,"Curtains that open and close based on lighting, schedule, and AI-optimized comfort preferences.",Home Automation
+63,AI-Powered Learning Platform,"An online platform that adapts course material, quizzes, and feedback using AI insights.",Software
+64,Smart AI Smoke Detector,"A detector that monitors smoke, CO levels, and uses AI to reduce false alarms while notifying users.",Home Security
+65,AI-Powered Marketing Analytics,"Software that analyzes campaigns, predicts engagement, and recommends strategies with AI.",Software
+66,Smart AI Oven,"An oven that adjusts temperature and cooking time automatically using AI and recipe analysis.",Kitchen
+67,AI-Powered Mental Health App,"An app providing mood tracking, guided exercises, and AI-suggested coping strategies.",Health & Fitness
+68,Smart AI Washing Machine,"A washing machine that optimizes cycles based on fabric type, load, and AI-driven analysis.",Home Appliances
+69,AI-Powered Customer Feedback Analyzer,"Software that categorizes and summarizes feedback using AI, highlighting key trends for businesses.",Software
+70,Smart AI Air Purifier,"An air purifier that monitors air quality and adjusts filtration speed using AI for optimal results.",Home Appliances
+71,AI-Powered Code Assistant,"An AI tool that helps developers write code snippets, auto-complete functions, and suggest improvements.",Software
+72,Smart AI Pet Tracker,"A wearable device that monitors pet location, activity, and health metrics using AI insights.",Wearables
+73,AI-Powered Meeting Summarizer,"Software that converts meeting audio into concise, actionable notes with AI.",Software
+74,Smart AI Refrigerator Organizer,"An AI-powered system that suggests optimal placement and tracks inventory inside your fridge.",Home Appliances
+75,AI-Powered Virtual Stylist,"An app that recommends outfits and fashion combinations using AI image and style analysis.",Software
+76,Smart AI Light Switch,"A switch that adjusts lighting automatically based on occupancy, time, and AI analysis of user habits.",Home Automation
+77,AI-Powered Customer Service Dashboard,"A dashboard that tracks tickets, predicts response times, and suggests actions using AI.",Software
+78,Smart AI Mattress,"A mattress that monitors sleep patterns and adjusts firmness using AI for optimal comfort.",Health & Fitness
+79,AI-Powered Voice Assistant Device,"A device that handles calls, tasks, and queries using AI natural language processing.",Electronics
+80,Smart AI Window Sensor,"A sensor that monitors window status and environment conditions, sending AI-driven alerts to the user.",Home Automation
+
